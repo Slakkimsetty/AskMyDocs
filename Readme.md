@@ -21,13 +21,6 @@ Upload any PDF — a research paper, your resume, a contract, a textbook chapter
 
 It's your own private AI assistant for documents, running entirely on your machine.
 
----
-
-## Demo
-
-> 📸 *Screenshot coming soon — upload your own PDF and ask away!*
-
----
 
 ## How RAG actually works
 
@@ -201,25 +194,6 @@ Things I want to add next:
 - [ ] **Pinecone support** — cloud vector store option for deployment
 - [ ] **Export chat** — download your Q&A session as a PDF or markdown
 - [ ] **Source highlighting** — show exactly which page the answer came from
-
----
-
-## AI Skills Demonstrated
-
-Building this project taught me:
-
-- How **embeddings** work and why vector similarity is powerful
-- The difference between **semantic search** and keyword search
-- How to design a **RAG pipeline** from scratch without frameworks like LangChain
-- How to run **local LLMs** with Ollama and why that matters
-- How to build and ship a real **ML-powered web app** with Streamlit
-
----
-
-## License
-
-MIT — use it, fork it, build on it.
-
 ---
 
 *Built from scratch as part of my AI/ML portfolio. No LangChain. No API keys. Just Python, vectors, and a local LLM.*
